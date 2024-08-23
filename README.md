@@ -3,7 +3,7 @@ USB Redirector(USB共享工具)
 
  USB Redirector官方版是一款功能强大的USB共享工具。USB Redirector最新版支持多种USB设备，无需安装驱动即可共享，支持本地和远程USB设备管理，支持Windows和Linux系统间USB设备共享，网络连接断开时自动尝试重连，助您轻松实现USB共享。
 
-  1、排除清单：阻止特定设备被共享或连接。
+      1、排除清单：阻止特定设备被共享或连接。
 
       2、IP过滤：控制访问USB服务器的计算机。
 
@@ -25,7 +25,7 @@ USB Redirector(USB共享工具)
 
 
 
-       1、虚拟机访问：轻松访问Hyper-V等虚拟机中的USB设备。
+      1、虚拟机访问：轻松访问Hyper-V等虚拟机中的USB设备。
 
       2、USB服务器组织：为公司或家庭网络中的用户提供功能齐全的USB服务。
 
@@ -36,6 +36,7 @@ USB Redirector(USB共享工具)
       5、物理访问限制：限制对USB设备的物理访问，但保持网络访问。
 
 软件特点
+
       1、跨平台支持：支持Windows和Linux系统间USB设备共享。
 
       2、空闲设备再利用：允许重新连接未使用的USB设备。
