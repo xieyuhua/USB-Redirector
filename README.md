@@ -58,3 +58,18 @@ USB Redirector(USB共享工具)
       10、自动重连：网络连接断开时自动尝试重连。
 
       11、排除清单：灵活控制共享的USB设备。
+
+```
+      查询BUSID：usbipd list
+      查询主机的IP地址：ipconfig
+      分享USB设备：usbipd bind --busid=<BUSID>
+      解除分享USB设备的代码：usbipd unbind --busid=<BUSID>
+
+
+      apt install linux-tools-virtual hwdata
+      update-alternatives --install /usr/local/bin/usbip usbip `ls /usr/lib/linux-tools/*/usbip | tail -n1` 20
+      使用usbip help测试是否安装成功
+
+      使用usbip连接主机分享的USB设备
+      usbip attach --remote=<HOST_IP> --busid=<HOST_BUSID>
+```
