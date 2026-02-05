@@ -1,5 +1,10 @@
 # USB-Redirector
 USB Redirector(USB共享工具)
+<img width="1401" height="594" alt="8e238830271caafa02e1b16ca94a78b5" src="https://github.com/user-attachments/assets/689060f2-50c5-48ae-8df1-ab20728cbbc0" />
+
+<img width="1414" height="713" alt="dc9a93456975b44f663b7b3dfce53f17" src="https://github.com/user-attachments/assets/81705bcf-9424-4338-94d7-81a50fc1592c" />
+
+
 
  USB Redirector官方版是一款功能强大的USB共享工具。USB Redirector最新版支持多种USB设备，无需安装驱动即可共享，支持本地和远程USB设备管理，支持Windows和Linux系统间USB设备共享，网络连接断开时自动尝试重连，助您轻松实现USB共享。
 
